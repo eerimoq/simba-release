@@ -1,2 +1,0 @@
-# simba-release
-Simba releases.
