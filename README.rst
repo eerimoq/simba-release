@@ -1,4 +1,4 @@
-Simba Arduino Boards
-====================
+Simba Releases
+==============
 
-Simba Arduino releases are stored in this repository.
+Simba releases are stored in this repository.
